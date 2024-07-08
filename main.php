@@ -73,7 +73,7 @@ else { ?>
           <!-- Logo Brand -->
           <a href="?module=dashboard" class="logo">
             <div class="navbar-brand">
-              <span class="text-white">DPU BINA MARGA</span>
+              <span class="text-white">Cartenz Store</span>
             </div>
           </a>
           <!-- Navbar Toggler -->

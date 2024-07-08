@@ -10,7 +10,7 @@
   <meta name="author" content="Code Null" />
 
   <!-- Title -->
-  <title>Aplikasi DPU BINA MARGA dengan PHP 8 dan MySQLi</title>
+  <title>Aplikasi Persediaan Barang Gudang Material dengan PHP 8 dan MySQLi</title>
 
   <!-- Favicon icon -->
   <link rel="icon" href="assets/img/favicon.png" type="image/x-icon" />
@@ -85,9 +85,9 @@
   <div class="wrapper wrapper-login">
     <div class="container container-login animated fadeIn">
       <!-- logo -->
-      <div class="text-center mb-4"><img src="assets/img/logo.png" alt="Logo" width="95px"></div>
+      <div class="text-center mb-4"><img src="assets/img/logo1.png" alt="Logo" width="250px"></div>
       <!-- judul -->
-      <h3 class="text-center">Data Gudang <br>DPU BINA MARGA</h3>
+      <h3 class="text-center">Data Gudang <br>International Warehouse Company</h3>
       <!-- form login -->
       <form action="proses_login.php" method="post" class="needs-validation" novalidate>
         <div class="form-group form-floating-label">
@@ -112,7 +112,7 @@
 
         <!-- footer -->
         <div class="login-footer mt-4">
-          <span class="msg">&copy; MAGANG UDINUS 2024</span>
+          <span class="msg">&copy; Anies vs Gemoy - 2024</span>
          </div>
       </form>
     </div>

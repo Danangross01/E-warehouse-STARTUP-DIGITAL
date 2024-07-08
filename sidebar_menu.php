@@ -40,7 +40,7 @@ else {
         </span>
         <h4 class="text-section">Master</h4>
       </li>
-
+      
       <li class="nav-item active submenu">
         <a data-toggle="collapse" href="#barang">
           <i class="fas fa-clone"></i>
@@ -313,26 +313,6 @@ else {
         <a href="?module=laporan_barang_keluar">
           <i class="fas fa-file-export"></i>
           <p>Laporan Barang Keluar</p>
-        </a>
-      </li>
-    <?php
-    }
-     // jika menu laporan barang keluar dipilih, menu laporan grafik barang
-    if ($_GET['module'] == 'laporan_barang_grafik') { ?>
-      <li class="nav-item active">
-        <a href="?module=laporan_barang_keluar">
-          <i class="fas fa-file-export"></i>
-          <p>Laporan Grafik Barang</p>
-        </a>
-      </li>
-    <?php
-    }
-    // jika tidak dipilih, menu laporan grafik barang
-    else { ?>
-      <li class="nav-item">
-        <a href="?module=laporan_barang_grafik">
-          <i class="fas fa-file-export"></i>
-          <p>Laporan Grafik Barang</p>
         </a>
       </li>
     <?php
